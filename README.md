@@ -1,0 +1,1 @@
+The embedded real-time face recognition system on the Google Coral Board uses SSD MobileNet for detection, FaceNet for face embeddings, and an SVM classifier for recognition, optimized with TensorFlow Lite for TPU-accelerated offline processing and a web-based interface
